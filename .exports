@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 
+export JRUBY_OPTS="--dev -J-Xmx2048m"
+
+export NVM_DIR=~/.nvm
+
 # Make vim the default editor.
 export EDITOR='vim';
 

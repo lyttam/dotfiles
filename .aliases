@@ -16,6 +16,7 @@ alias c="cd ~/calcentral"
 alias cc="cd ~/.calcentral_config"
 alias g="git"
 alias tsungstats="/usr/local/lib/tsung/bin/tsung_stats.pl"
+alias boac="python3 ~/boac/run.py"
 
 # Detect which `ls` flavor is in use
 if ls --color > /dev/null 2>&1; then # GNU `ls`
